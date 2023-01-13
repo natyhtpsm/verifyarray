@@ -1,3 +1,9 @@
+// Name: Nathália Pimentel de Assis
+//University: University of Brasilia
+//Bachelor student in eletronic engineering course
+//Date: November 4th 2022 
+
+
 function subArray(array, subarray) {
     let indiceMenor = 0;
  
@@ -10,3 +16,4 @@ function subArray(array, subarray) {
   }
  
     return indiceMenor === subarray.length;
+}
